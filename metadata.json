@@ -1,0 +1,8 @@
+{
+  "name": "Gaming Café Manager",
+  "description": "Operations dashboard and floor control system for gaming cafés, console lounges, and racing simulator centers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
